@@ -1,6 +1,3 @@
-from asyncio import run_coroutine_threadsafe
-from turtle import color
-
 
 class Vehiculo:
     
