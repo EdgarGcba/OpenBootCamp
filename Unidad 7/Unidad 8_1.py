@@ -8,5 +8,4 @@ datos = f.write('Direccion: \n')
 datos = f.write('Celular: \n')
 f.close()
 
-print(type(datos))
 
