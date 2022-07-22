@@ -1,2 +1,4 @@
 Nombre: 
 Apellido: 
+Direccion: 
+Celular: 
